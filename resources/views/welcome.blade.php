@@ -82,12 +82,12 @@
             <div class="content">
                 <div class="title m-b-md">
                     <!-- Isikan dengan username akun github anda -->
-                    muklasr
+                    GENTAXXX
                 </div>
 
                 <div class="links">
                     <!-- ganti url dengan link github anda -->
-                    <a href="https://github.com/muklasr">GitHub</a>
+                    <a href="https://github.com/GENTAXXX/responsi-web2-15101">GitHub</a>
                 </div>
             </div>
         </div>
